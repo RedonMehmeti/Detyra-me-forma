@@ -1,0 +1,64 @@
+body{
+    background-color: aqua;
+    width: 100vw;
+    height: 100vh;
+}
+.contier{
+    background-color: rgb(0, 0, 182);
+    border-radius: 5%;
+    width: 95%;
+    height: 90%;
+    padding: 20px;
+    display: inline-block;
+}
+.pjesa1{
+    width: 50%;
+    background-color: rgb(0, 0, 182);
+    display: inline-block;
+
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+.pjesa2{
+    background-color: white;
+    width: 50%;
+    height: 100%;
+    float: right;
+    display: inline-block;
+    border-radius: 20px;
+}
+input{
+    width: 90%;
+}
+textarea{
+    90%
+}
+.button{
+    float: right;
+    background-color: blue;
+    color: white;
+    width: 30%;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    margin-top: 30px;
+}
+.diqka:hover{
+    border: 1px solid black;
+    width: 180px;
+    border-radius: 5px;
+}
+.hiq:hover{
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(36, 36, 253);
+}
+.hiq{
+    margin: 20px;
+}
